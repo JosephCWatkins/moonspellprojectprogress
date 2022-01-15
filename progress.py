@@ -1,1 +1,8 @@
-print("Yeet.") 
+backgrounds = [] 
+characters = [] 
+date = [] 
+author = [] 
+categories = [] 
+
+categorynames = [] 
+action = [] 
